@@ -3,7 +3,7 @@
 I shall discuss and implement some of the variations of the gradient descent algorithm and optimization methods. 
 If you have some idea of what Gradient Descent is and would like to explore more, this might be useful to you.
 
-Here's a quick (unfinished) list of what wthis notebook will cover :
+Here's a quick (unfinished) list of what this notebook will cover :
 
  - Vanilla (Batch) Gradient Descent
  - Stochastic Gradient Descent
