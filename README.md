@@ -1,6 +1,6 @@
 # GradientDescentOptimizationAlgorithms
 
-I shall discuss and implement some of the variations of the gradient descent algorithm and optimization methods from scratch. The 3D visulaizations will make use of Plotly.
+I shall discuss and implement some of the variations of the gradient descent algorithm and optimization methods from scratch, with some brief explanations and intuitions. The 3D visulaizations make use of Plotly.
 If you have some idea of what Gradient Descent is and would like to explore more, this might be useful to you.
 
 Here's a quick (unfinished) list of what this notebook will cover :
@@ -19,3 +19,17 @@ Here are the other algorithms that will be covered in future updates :
  - Adam
  - Adadelta
  - Nadam and possibly some others.
+
+
+## Note :
+If you are not able to view the notebook on GitHub and are getting the message "Sorry, this is too big to display.", please follow these steps : 
+ - Head to [Nbviewer](https://nbviewer.org/)
+ - Copy and Paste the following URL : https://github.com/Anwesha227/GradientDescentOptimizationAlgorithms/blob/main/gradient-descent-optimization-algorithms.ipynb
+ - Hit "Go!"
+ - Please wait for the notebook to render. 
+ 
+ You should be able to view the Notebook and the interactive plots after this.
+ 
+ Alternatively, click on this link : https://nbviewer.org/github/Anwesha227/GradientDescentOptimizationAlgorithms/blob/main/gradient-descent-optimization-algorithms.ipynb
+ 
+ The caveat of this is that you would not be able to execute the code on Nbviewer. However you can download and run the code if you wish to play around with the parameter values. 
