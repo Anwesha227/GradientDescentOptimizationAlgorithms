@@ -26,5 +26,10 @@ If you are not able to view the notebook on GitHub and are getting the message "
  - Head to [Nbviewer](https://nbviewer.org/)
  - Copy and Paste the following URL : https://github.com/Anwesha227/GradientDescentOptimizationAlgorithms/blob/main/gradient-descent-optimization-algorithms.ipynb
  - Hit "Go!"
+ - Please wait for the notebook to render. 
  
  You should be able to view the Notebook and the interactive plots after this.
+ 
+ Alternatively, click on this link : https://nbviewer.org/github/Anwesha227/GradientDescentOptimizationAlgorithms/blob/main/gradient-descent-optimization-algorithms.ipynb
+ 
+ The caveat of this is that you would not be able to execute the code on Nbviewer. However you can download and run the code if you wish to play around with the parameter values. 
