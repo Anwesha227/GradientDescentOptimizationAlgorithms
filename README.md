@@ -1,6 +1,6 @@
 # GradientDescentOptimizationAlgorithms
 
-I shall discuss and implement some of the variations of the gradient descent algorithm and optimization methods. 
+I shall discuss and implement some of the variations of the gradient descent algorithm and optimization methods from scratch. The 3D visulaizations will make use of Plotly.
 If you have some idea of what Gradient Descent is and would like to explore more, this might be useful to you.
 
 Here's a quick (unfinished) list of what this notebook will cover :
